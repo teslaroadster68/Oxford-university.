@@ -1,0 +1,25 @@
+body{
+  text-align:center;
+  background:linear-gradient(#60ebeb 0%, #27ae60 100%)
+}
+
+p{
+  font-size:50px;
+}
+
+img{
+  height:400px
+} 
+
+.menu{
+  list-style:none;
+  float:right;
+  top:10px;
+  right:30px;
+  cursor:pointer;
+  color: blue;
+}
+
+.links:hover{
+  color:grey;
+}
